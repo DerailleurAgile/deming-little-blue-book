@@ -5,6 +5,9 @@ A curated compilation of Dr. Deming's quotations originally published by Sundial
 
 "We record the sunny hours"
 
+*Converted into markdown by **Christopher R. Chapman** - April 2025*
+
+
 ##  From the original book...
 
 *These quotations by Dr. Deming appear in this book as part of an on-going effort to spread awareness of the use of statistics and the role of variation in management. The purpose of this book is to reach educators, teachers and the people they work with. Profits from the sale of the book support the distribution of this book to schools, industrial and commercial management and educational leaders. Your purchase of two books allows the publisher to donate another book to a library, a school or a manager in crisis. This file also appears on scribd.com for free download. (So why would you buy the book? Because your mom, like our moms, doesn’t want to read an ebook.) If you want to use these quotes in your own edition of Deming’s quotes, please consider the concept of Creative Commons: work with us to get these words out to the general public. Most of the net proceeds from the sale of formats of this work are invested in giving away additional copies. Photos that appear in the book are from Creative Commons (wikipedia.org) and a portion of the proceeds from the sale of the book (and the income that comes from any advertising related to the youtube channel) goes to support wikipedia.org (shared with paying for the free distribution of the book to people and libraries).*
@@ -39,7 +42,7 @@ We hope that these quotations from Dr. Deming’s work will inspire you to join 
 ---
 
 ### Endnotes  
-In 1992 Richard Stockton Conger, a political science student at the University of Hawaii in Honolulu, compiled a collection of quotations by looking through his notes from lectures by Deming. His 48-page book measured 11 cm by 11 cm and it had a blue cover. The current editors in 1994 obtained permission letters and reissued the book in a smaller format (smaller than a 3” by 5” card) of 72 pages, calling it “the Little Blue Book.” In 2010 the document was placed on scribd.com with the purpose of sharing the work with people who are concerned about improving the **quality** of management, services and products.
+In 1992 **Richard Stockton Conger**, a political science student at the University of Hawaii in Honolulu, compiled a collection of quotations by looking through his notes from lectures by Deming. His 48-page book measured 11 cm by 11 cm and it had a blue cover. The current editors in 1994 obtained permission letters and reissued the book in a smaller format (smaller than a 3” by 5” card) of 72 pages, calling it “the Little Blue Book.” In 2010 the document was placed on scribd.com with the purpose of sharing the work with people who are concerned about improving the **quality** of management, services and products.
 
 You are invited to share this document, post it wherever you like, as long as you don’t remove any of the current quotes and make it clear if you add quotes. Please respect the spirit of Creative Commons and copyleft: You can add to the work and redistribute it as long as you don’t benefit from it directly by selling it and as long as the original book’s contents are presented.
 
