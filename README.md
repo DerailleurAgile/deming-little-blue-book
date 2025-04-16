@@ -30,6 +30,6 @@ In his foreword to the second edition of *Quotations From Chairman Mao Tse-Tung*
 
 Students of Chinese history will recall that the phrase “cultural revolution” and a certain little red book intended to provide the guiding principles for modernizing a country or one billion people. Unlike Deng, whose work empowers those who understand and use the ideas, Mao Tse Tung (Zedong) perverted the phrase “cultural revolution” so that those two words continue to revive painful memories in millions of survivors of that ill-conceived plan.
 
-We hope that these quotations from Dr. Deming’s work will inspire you to join the larger “cultural revolution” in management. This revolution will change not only you, your colleagues, your employees and your neighbors, but also billions of people around the globe, including those who studied Chairman Mao’s little red book and failed to find fulfillment. “Peace through economic prosperity” is Dr. Deming’s promise to those who heed his call for the pursuit of **quality**. Let’s begin.
+We hope that these quotations from Dr. Deming’s work will inspire you to join the larger “cultural revolution” in management. This revolution will change not only you, your colleagues, your employees and your neighbors, but also billions of people around the globe, including those who studied Chairman Mao’s little red book and failed to find fulfillment. “Peace through economic prosperity” is Dr. Deming’s promise to those who heed his call for the pursuit of **quality**. [Let’s begin.](doc/little_blue_book.md)
 
 *The Editors*
