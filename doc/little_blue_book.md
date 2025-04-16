@@ -48,7 +48,7 @@ Each quote is cited from the following sources using an abbreviation and page nu
 
 ---
 
-### 🗣️ Communication
+### Communication 🗣️
 Break down barriers between departments. People in research, design, sales and production must work as a team, to foresee problems of production and in use that may be encountered with the product or service. **[Out 24]**
 
 ### ⚔️ Competition
