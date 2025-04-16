@@ -13,7 +13,40 @@ Each quote is cited from the following sources using an abbreviation and page nu
 
 ### Quick Index
 
-[Improvement](https://github.com/DerailleurAgile/deming-little-blue-book/edit/main/doc/little_blue_book.md#improvement)
+- [Communication](#communication)
+- [Competition](#competition)
+- [Customers](#customers)
+- [Education](#education)
+- [Evaluation](#evaluation)
+- [Fear](#fear)
+- [Improvement](#improvement)
+- [Joy in Work](#joy-in-work)
+- [Knowledge](#knowledge)
+- [Leadership](#leadership)
+- [Learning](#learning)
+- [Management](#management)
+- [Merit Pay](#merit-pay)
+- [Obstacles](#obstacles)
+- [Optimization](#optimization)
+- [Patience](#patience)
+- [A Plea for Blood](#a-plea-for-blood)
+- [Productivity](#productivity)
+- [Profits](#profits)
+- [Protectionism](#protectionism)
+- [Quality](#quality)
+- [Ranking](#ranking)
+- [Responsibility](#responsibility)
+- [Shewhart, William A. 1891–1967](#shewhart-william-a-18911967)
+- [Statistics](#statistics)
+- [Performance](#performance)
+- [Transformation](#transformation)
+- [Variation](#variation)
+- [Work](#work)
+- [Other Quotations](#other-quotations)
+- [Another Compilation of Quotes](#another-compilation-of-quotes)
+- [Acknowledgements](#acknowledgements)
+
+---
 
 ### Communication
 Break down barriers between departments. People in research, design, sales and production must work as a team, to foresee problems of production and in use that may be encountered with the product or service. **[Out 24]**
