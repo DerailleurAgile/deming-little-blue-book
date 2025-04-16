@@ -118,7 +118,7 @@ Most people think of management as a chain of command. My theory says that the s
 Without a cultural revolution in management, quality control circles will not produce the desired effects in America. Nor can anyone guarantee that job security for the rank and file would be enough to produce high productivity and product quality. However, without management’s commitment to the personal welfare of its workers, it will be impossible to inspire employees’ interest in company productivity and product quality. With guaranteed security, management’s job becomes far more difficult and challenging. **[Out 148]**
 
 ### 💸 Merit Pay
-See Evaluation
+See [Evaluation](#evaluation)
 
 ### 🚧 Obstacles
 Barriers against realization of pride of workmanship may in fact be one of the most important obstacles to reduction of cost and improvement of quality in the United States. **[Out 83]**
@@ -166,7 +166,7 @@ Cease dependence on inspection to improve quality. Eliminate the need for inspec
 Work with your vendor to improve his incoming quality. Establish a long-term relationship with him for continual improvement, ever better and better quality, with lower and lower costs. Both you and he will win. **[World 10]**
 
 ### 🏅 Ranking
-See Evaluation.
+See [Evaluation](#evaluation)
 
 ### 🫱 Responsibility
 It is no longer socially acceptable to dump employees onto the heap of unemployment. Loss of market and resulting unemployment are not foreordained. They are not inevitable. They are man-made. **[Out ix]**
