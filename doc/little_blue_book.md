@@ -135,3 +135,84 @@ The application of statistical principles and techniques in all stages of produc
 
 A process is in statistical control when it is no longer afflicted with special causes. [Out x]
 
+**Performance**  
+A process that is in statistical control is predictable. [World 100]
+
+A professional statistician will not follow methods that are indefensible, merely to please someone, nor to support inferences based on such methods. He ranks his own name and profession as more important than convenient assent to interpretations not warranted by statistical theory. “…His career as an expert witness will shatter in shipwreck if he indicates concern over which side of the case the results seem to favor. ‘As a statistician, I couldn’t care less,’ is the right attitude in a legal case, or in any other report.” [World 106]
+
+Most statisticians can recall instances in which informal advice backfired. It is the same in any professional line. A statistician that tries to be a good fellow and give advice under adverse circumstances is in practice and has a client, whether he intended it or not; he will later on find himself accountable for the advice. [World 120]
+
+**Transformation**  
+Long-term commitment to new learning and new philosophy is required of any management that seeks transformation. The timid and the fainthearted, and people that expect quick results, are doomed to disappointment. [Out x]
+
+Put everybody in the company to work to accomplish the transformation. The transformation is everybody’s job. [Out 24]
+
+**Variation**  
+Some leaders forget an important mathematical theorem that if 20 people are engaged in a job, two will fall in the bottom ten percent, no matter what. It is difficult to overthrow the law of gravitation and the laws of nature. The important problem is not the bottom ten percent, but who is statistically out of line and in need of help. [Out 56]
+
+Thousands of people understand that investigation of ups and downs within the control limits creates trouble, increases variation, causes severe loss. These same people forget the basic scientific principles that they have learned [when they go onto] the factory floor; those same scientific principles apply to people. People are the most important asset of any company. [Method 248]
+
+What statistical methods do is to point out the existence of special causes. A point beyond limits on a control chart, or a significant result in an experiment or test, indicates almost certainly the existence of one or more special causes. Points in control, or which show no significance, indicate that only common causes of variation remain. [World 46]
+
+Management has the obligation to focus attention on common causes of variability among specific causes. Common causes affect all machines and all operators. Only management can change a common cause; the worker cannot. No matter how well an operator or foreman does his work, his efforts may be ineffective if he is handicapped by poor light, raw material that is too variable or otherwise unsuitable, or by any other common cause. This is why management must continually accept the responsibility to find common causes, and to eliminate them if economically feasible. [World 247]
+
+**Work**  
+Anyone with a job is entitled to pride of workmanship. [World 254]
+
+**Other Quotations**  
+Wisdom sounds foolish to fools.  
+Dionysius to Cadmus in Euripides’ *The Bacchae* [Out 486]
+
+Is it the bell that rings,  
+Is it the hammer that rings,  
+Or is it the meeting of the two that rings?  
+– Japanese poem [Out 177]
+
+**Another Compilation of Quotes**
+
+- “Quality is everyone’s responsibility.”  
+- “A system cannot understand itself.”  
+- “All anyone asks for is a chance to work with pride.”  
+- “A system must be managed. It will not manage itself.”  
+- “Innovation comes from the producer – not from the customer.”  
+- “If you do not know how to ask the right question, you discover nothing.”  
+- “The worker is not the problem. The problem is at the top! Management!”  
+- “Defects are not free. Somebody makes them, and gets paid for making them.”  
+- “It is not enough to do your best; you must know what to do, and then do your best.”  
+- “If you can’t describe what you are doing as a process, you don’t know what you’re doing.”  
+- “The average American worker has fifty interruptions a day, of which seventy percent have nothing to do with work.”  
+- “Profit in business comes from repeat customers, customers that boast about your product or service, and that bring friends with them.”
+
+**"Experience by itself teaches nothing...Without theory, experience has no meaning. Without theory, one has no questions to ask. Hence without theory there is no learning."**
+
+**Foremost is the principle that the purpose of consumer research is to understand the customer’s needs and wishes, and thus design product and service that will provide better living for him in the future. A second principle is that no one can guess the future loss of business from a dissatisfied customer…"
+
+“What is a system? A system is a network of interdependent components that work together to try to accomplish the aim of the system. A system must have an aim. Without an aim, there is no system. The aim of the system must be clear to everyone in the system. The aim must include plans for the future. The aim is a value judgment. (We are of course talking here about a man-made system.)”
+
+Found on http://www.wisdom-of-the-wise.com/W-Edwards-Deming.htm
+
+---
+
+**Acknowledgements**  
+The words and ideas appearing in this book are the property of Dr. W. Edwards Deming. The copyright for the format of this book sits with Sundial Press (and we give it to you to use as part of Creative Commons). Permission to reprint these words was obtained from Dr. Deming, MIT Center for Advanced Engineering Study, Cecelia Killian and Mary Walton.
+
+---
+
+**Sources**  
+Deming, W. Edwards (1982, 1986). *Out of the Crisis*. MIT Center for Advanced Engineering Study. [Out]
+
+Deming, W. Edwards (1993). *The New Economics for Industry, Government, Education*. MIT Center for Advanced Engineering Study. [New]
+
+Killian, Cecelia S. (1992). *The World of W. Edwards Deming*. SPC Press. [World]
+
+Walton, Mary (1986). *The Deming Management Method*. Putnam Publishing. [Method]
+
+All uncited quotations in this book were made by Dr. Deming in classroom situations.
+
+---
+
+If you have a favorite Deming quote that doesn’t appear in this book, please send it to the editors at TheEbookman.com with your postal address. Your suggestion will be considered for inclusion in a future edition (and for an update of the scribd.com file). If the quote is used, you will receive a free copy of the next edition.
+
+---
+
+*This book is also available in scroll.com. Yes, a free copy of the quotes that appear in the hand-sized booklet “Little Blue Book Deming” on scribd.com. Download here.*
