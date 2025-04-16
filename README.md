@@ -8,6 +8,7 @@ A curated compilation of Dr. Deming's quotations originally published by Sundial
 *Converted into markdown by **Christopher R. Chapman** - April 2025*
 
 [Take me to the quotations!](doc/little_blue_book.md)
+
 [Take me to the OG book!](source/datenpdf.com_the-little-blue-book-quotations-of-w-edwards-deming-11-pages-.pdf)
 
 ##  From the original book...
