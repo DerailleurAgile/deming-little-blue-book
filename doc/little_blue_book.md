@@ -68,3 +68,70 @@ Recognize that all people are different, try to fit each one in what he does bes
 Most people think of management as a chain of command. My theory says that the system is like an orchestra, not an army. Every one in an orchestra supports the other players. Each player watches not only the conductor, but also each other and the whole system. The system needs a conductor, not a general. It needs someone who harmonizes the talents and abilities of each part of the system. Each player in the orchestra knows that he is part of a system, even when he plays solo. He is not there to attract attention to himself. He succeeds when he supports the other players.
 
 Without a cultural revolution in management, quality control circles will not produce the desired effects in America. Nor can anyone guarantee that job security for the rank and file would be enough to produce high productivity and product quality. However, without management’s commitment to the personal welfare of its workers, it will be impossible to inspire employees’ interest in company productivity and product quality. With guaranteed security, management’s job becomes far more difficult and challenging. [Out 148]
+
+**Merit Pay**  
+See Evaluation
+
+**Obstacles**  
+Barriers against realization of pride of workmanship may in fact be one of the most important obstacles to reduction of cost and improvement of quality in the United States. [Out 83]
+
+**Optimization**  
+Labor and management should focus on optimizing the system. For any discussion between buyer and seller or suppliers and retailers, the rule is the same. If your principal goal in a negotiation is to protect yourself, you’ve already lost and so has everyone else. You gain most when you work with others to improve the system.
+
+Any group should have as its aim optimization over the unit of the larger system that the group operates in. Anything less than optimization of the whole system will bring eventual loss to every component in the system. [New 59]
+
+**Patience**  
+How poor are they that have not patience.  
+Iago to Roderigo, Shakespeare’s *Othello*, II, iii [Out 29]
+
+**A Plea for Blood**  
+There are two kinds of blood in the blood bank, good and bad. [My physician] Dr. Burchell used three units of good blood on me. Bad blood, he said, is a last resort. People like my friends and your friends can give good blood, and that is about the only source thereof. Blood from a regular donor that takes pay for it is almost dependably pretty well washed up, like the donor himself, if I understand Dr. Burchell correctly. In other words, good blood comes from friends and their friends. Money cannot buy it: it is not for sale. I may have garbled some of the medical language here, but Dr. Burchell’s point was very clear. He and other surgeons need good blood. Any type will do as replacement. In short, I owe three pints of good blood, and there is only one way to replace them. Money won’t do it. I had not appreciated these critical requirements. Maybe this plea will bring friends to offer blood. [World 142]
+
+**Productivity**  
+Improve constantly and forever the system of production and service, to improve quality and productivity and thus constantly decrease costs. [Out 23]
+
+**Profits**  
+Don’t depend on short-term profits as a measure of a system’s health. They often get that way by cutting back on long-term investment. Cutting back may mean laying off people, reducing research and postponing maintenance, but the system suffers.
+
+Paper profits do not make the pie bigger. They give you a bigger piece. You take it from somebody else. It doesn’t help the society. [Method 91]
+
+Dividends and paper profits, the yardstick by which managers of money and heads of companies are judged, do not improve the competitive position of a company or of American industry. Paper profits do not make bread: improvement of quality and productivity do. They make a contribution to better material living for all people, here and everywhere. [Out 21]
+
+**Protectionism**  
+Dependence on protection by tariffs and laws to “buy American” only encourages incompetence. [Out xi]
+
+If some manufacturers in my own country would meet competition with effort and spend less time on lobbies to boost tariffs and to lower trade quotas, they might have less to worry about Japanese competition and could give some of the rest of us the benefit of better quality and lower prices. Many people say that they believe in free enterprise in competition, but what they often mean is competition for the other fellow, not for themselves. Now in my own case, I believe in free enterprise, and I am not afraid of Japanese statisticians, English statisticians, French statisticians, or any others. If one of them is doing a better job, then the thing to do is go over there, or bring him to my own country, and find out how he does it. I don’t know of any statistician’s lobby to try to keep out foreign statisticians. The more of them we import, the better off we are. [World 43–44]
+
+**Quality**  
+Why is it that productivity increases as quality improves? Less rework. Not so much waste. Quality to the production worker means that his performance satisfies him, provides to him pride of workmanship. [Out 1]
+
+End the practice of awarding business on the basis of price tag. Instead, minimize total cost. Move toward a single supplier of any one item, on a long-term relationship of loyalty and trust. [Out 23]
+
+Japanese management learned in 1950… that the best solution to improvement of incoming materials is to make a partner of every vendor, and to work together with him on a long-term relationship of loyalty and trust. [Out 43]
+
+Barriers against realization of pride of workmanship may in fact be one of the most important obstacles to reduction of cost and improvement of quality in the United States. [Out 83]
+
+Quality begins at the top. . . . Quality of product and of service can be no better than the intent of top management. The only way a company can achieve success would be for the top management to be committed to the course of action. [World 22]
+
+Cease dependence on inspection to improve quality. Eliminate the need for inspection on a mass basis by building quality into the product in the first place. [Out 23]
+
+Work with your vendor to improve his incoming quality. Establish a long-term relationship with him for continual improvement, ever better and better quality, with lower and lower costs. Both you and he will win. [World 10]
+
+**Ranking**  
+See Evaluation.
+
+**Responsibility**  
+It is no longer socially acceptable to dump employees onto the heap of unemployment. Loss of market and resulting unemployment are not foreordained. They are not inevitable. They are man-made. [Out ix]
+
+The greatest waste in America is failure to use the abilities of people. One need only listen to a tape of a meeting with production workers to learn about their frustrations and about the contribution that they are eager to make. Anyone would be impressed to observe how articulate most production workers are, in spite of criticisms of our schools. [Out 53]
+
+**Shewhart, William A. 1891–1967**  
+Another half century may pass before the full spectrum of Dr. Shewhart’s contributions has been revealed in liberal education, science and industry. [World 53]
+
+**Statistics**  
+There are conferences almost any day in this country on the subject of productivity, mostly concerned with gadgets and measures of productivity. As William E. Conway said, measurements of productivity are like accident statistics. They tell you that there is a problem, but they don’t do anything about accidents. This book (*Out of the Crisis*) is an attempt to improve productivity, not just to measure it. [Out x]
+
+The application of statistical principles and techniques in all stages of production are directed toward the economic manufacture of a product that is useful and has a market. [World 42]
+
+A process is in statistical control when it is no longer afflicted with special causes. [Out x]
+
