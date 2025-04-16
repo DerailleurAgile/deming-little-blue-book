@@ -7,14 +7,14 @@ A curated compilation of Dr. Deming's quotations originally published by Sundial
 
 *Converted into markdown by **Christopher R. Chapman** - April 2025*
 
+[Take me to the quotations!](doc/little_blue_book.md)
+
 
 ##  From the original book...
 
 *These quotations by Dr. Deming appear in this book as part of an on-going effort to spread awareness of the use of statistics and the role of variation in management. The purpose of this book is to reach educators, teachers and the people they work with. Profits from the sale of the book support the distribution of this book to schools, industrial and commercial management and educational leaders. Your purchase of two books allows the publisher to donate another book to a library, a school or a manager in crisis. This file also appears on scribd.com for free download. (So why would you buy the book? Because your mom, like our moms, doesn’t want to read an ebook.) If you want to use these quotes in your own edition of Deming’s quotes, please consider the concept of Creative Commons: work with us to get these words out to the general public. Most of the net proceeds from the sale of formats of this work are invested in giving away additional copies. Photos that appear in the book are from Creative Commons (wikipedia.org) and a portion of the proceeds from the sale of the book (and the income that comes from any advertising related to the youtube channel) goes to support wikipedia.org (shared with paying for the free distribution of the book to people and libraries).*
 
 ---
-
-[Take me to the quotations!](doc/little_blue_book.md)
 
 ### Introduction  
 The purpose of this book of quotations is neither to summarize Dr. Deming’s work nor to “popularize” his ideas by giving the reader a quick overview. This book does not give you the *essence* of Deming. Rather, the purpose of compiling these quotes is to stir your interest to learn more. **Why does Deming advocate the end of merit pay? Why must managers understand terms like “statistical control” and “variation”?** You won’t find complete answers here, just quotations for you to meditate on and to ponder. The page references will speed your self-education. Yes, today’s world of sound bites, briefings, news summaries and shortened attention spans make Dr. Deming’s work hard to communicate to a generation growing up on MTV and the Internet and to a work force committed to intense adversarial competition. Rather than try to chop Deming’s philosophy of “managing the system” into 20-second sound bites, we have selected quotes that will raise your interest to spend a half hour or more to learn more about the subject.
