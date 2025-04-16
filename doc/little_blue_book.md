@@ -1,5 +1,16 @@
 # The Little Blue Book of Dr. Deming's Quotations
 
+**Cited Sources for Quotations**
+
+Each quote is cited from the following sources using an abbreviation and page number. All un-cited quotations were made by Dr. Deming in classroom situations.
+
+* Deming, W. Edwards (1982, 1986). *Out of the Crisis*. MIT Center for Advanced Engineering Study. [Out]
+* Deming, W. Edwards (1993). *The New Economics for Industry, Government, Education*. MIT Center for Advanced Engineering Study. [New]
+* Killian, Cecelia S. (1992). *The World of W. Edwards Deming*. SPC Press. [World]
+* Walton, Mary (1986). *The Deming Management Method*. Putnam Publishing. [Method]
+
+---
+
 **Communication**  
 Break down barriers between departments. People in research, design, sales and production must work as a team, to foresee problems of production and in use that may be encountered with the product or service. [Out 24]
 
@@ -183,9 +194,9 @@ Or is it the meeting of the two that rings?
 - “The average American worker has fifty interruptions a day, of which seventy percent have nothing to do with work.”  
 - “Profit in business comes from repeat customers, customers that boast about your product or service, and that bring friends with them.”
 
-**"Experience by itself teaches nothing...Without theory, experience has no meaning. Without theory, one has no questions to ask. Hence without theory there is no learning."**
+"Experience by itself teaches nothing...Without theory, experience has no meaning. Without theory, one has no questions to ask. Hence without theory there is no learning."
 
-**Foremost is the principle that the purpose of consumer research is to understand the customer’s needs and wishes, and thus design product and service that will provide better living for him in the future. A second principle is that no one can guess the future loss of business from a dissatisfied customer…"
+Foremost is the principle that the purpose of consumer research is to understand the customer’s needs and wishes, and thus design product and service that will provide better living for him in the future. A second principle is that no one can guess the future loss of business from a dissatisfied customer…"
 
 “What is a system? A system is a network of interdependent components that work together to try to accomplish the aim of the system. A system must have an aim. Without an aim, there is no system. The aim of the system must be clear to everyone in the system. The aim must include plans for the future. The aim is a value judgment. (We are of course talking here about a man-made system.)”
 
@@ -195,21 +206,6 @@ Found on http://www.wisdom-of-the-wise.com/W-Edwards-Deming.htm
 
 **Acknowledgements**  
 The words and ideas appearing in this book are the property of Dr. W. Edwards Deming. The copyright for the format of this book sits with Sundial Press (and we give it to you to use as part of Creative Commons). Permission to reprint these words was obtained from Dr. Deming, MIT Center for Advanced Engineering Study, Cecelia Killian and Mary Walton.
-
----
-
-**Sources**  
-Deming, W. Edwards (1982, 1986). *Out of the Crisis*. MIT Center for Advanced Engineering Study. [Out]
-
-Deming, W. Edwards (1993). *The New Economics for Industry, Government, Education*. MIT Center for Advanced Engineering Study. [New]
-
-Killian, Cecelia S. (1992). *The World of W. Edwards Deming*. SPC Press. [World]
-
-Walton, Mary (1986). *The Deming Management Method*. Putnam Publishing. [Method]
-
-All uncited quotations in this book were made by Dr. Deming in classroom situations.
-
----
 
 If you have a favorite Deming quote that doesn’t appear in this book, please send it to the editors at TheEbookman.com with your postal address. Your suggestion will be considered for inclusion in a future edition (and for an update of the scribd.com file). If the quote is used, you will receive a free copy of the next edition.
 
