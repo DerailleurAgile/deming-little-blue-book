@@ -211,4 +211,6 @@ If you have a favorite Deming quote that doesn’t appear in this book, please s
 
 ---
 
-*This book is also available in scroll.com. Yes, a free copy of the quotes that appear in the hand-sized booklet “Little Blue Book Deming” on scribd.com. Download here.*
+*This book is also available in scribd.com. Yes, a free copy of the quotes that appear in the hand-sized booklet “Little Blue Book Deming” on scribd.com. Download the ebook and send it to your friends and colleagues. You are part of the transformation when you spread the scripture.*
+
+***NB:** Feel free to share this markdown file as well! Each of the above quote headings is also shareable via a link hover icon to the left.*
