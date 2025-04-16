@@ -64,3 +64,8 @@ I will avoid eating all types of tuna (just to be sure).
 I will ask politicians for a ban on selling tuna (the ban can expire after ten years, enough time for the tuna stocks to recover).
 
 If you are reading this collection as an ebook, consider buying the book and visiting the YouTube channel. Most of the net proceeds from the sale and advertising of formats of this work are invested in giving away additional copies. The editors do not benefit from the proceeds of this work. Photos that appear in the book are from Creative Commons (wikipedia.org) and a portion of the proceeds from the sale of the book (and the income that comes from any advertising related to the YouTube channel) goes to support wikipedia.org (shared with paying for the free distribution of the book to people and libraries).
+
+**Drive out fear.**
+(One of Deming's 14 Points)
+
+![DOF](images/drive_out_fear.png)
