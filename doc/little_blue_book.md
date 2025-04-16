@@ -1,4 +1,4 @@
-# The Little Blue Book of Dr. Deming's Quotations
+# 📘 The Little Blue Book of Dr. Deming's Quotations
 
 ### Cited Sources for Quotations
 
@@ -11,7 +11,7 @@ Each quote is cited from the following sources using an abbreviation and page nu
 
 ---
 
-### Quick Index
+### Quick Index 📖
 
 - [Communication](#communication)
 - [Competition](#competition)
