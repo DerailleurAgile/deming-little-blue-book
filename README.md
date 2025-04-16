@@ -37,7 +37,7 @@ Students of Chinese history will recall that the phrase “cultural revolution�
 
 We hope that these quotations from Dr. Deming’s work will inspire you to join the larger “cultural revolution” in management. This revolution will change not only you, your colleagues, your employees and your neighbors, but also billions of people around the globe, including those who studied Chairman Mao’s little red book and failed to find fulfillment. “Peace through economic prosperity” is Dr. Deming’s promise to those who heed his call for the pursuit of **quality**. [Let’s begin.](doc/little_blue_book.md)
 
-*The Editors*
+—**The Editors**
 
 ---
 
