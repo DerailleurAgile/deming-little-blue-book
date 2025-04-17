@@ -30,7 +30,9 @@ We have not included all of the 14 points and we have omitted the extensive expl
 ---
 
 ### The Little Blue Book
-Without a cultural revolution in management, **quality** control will not produced the desired effects in America. —W. Edwards Deming, *Out of the Crisis*, p. 148
+*Without a cultural revolution in management, **quality** control will not produced the desired effects in America.*
+
+ —W. Edwards Deming, *Out of the Crisis*, p. 148
 
 In his foreword to the second edition of *Quotations From Chairman Mao Tse-Tung*, Lin Piao exhorted his readers to “have specific problems in mind, study and apply his [Mao’s] words in a creative way, combine study with application.” The reader of this little book is encouraged to apply the same advice to Dr. Deming’s words.
 
@@ -57,11 +59,11 @@ We admire Deming’s work and through this quote book we hope to share our passi
 
 ### Other Topics
 
-**Bluefin Tuna**
+**Bluefin Tuna** 🐟
 
 bigmarinefish.com/bluefin  
 
-I will avoid eating all types of tuna (just to be sure).  
+**I will avoid eating all types of tuna (just to be sure).**  
 I will ask politicians for a ban on selling tuna (the ban can expire after ten years, enough time for the tuna stocks to recover).
 
 If you are reading this collection as an ebook, consider buying the book and visiting the YouTube channel. Most of the net proceeds from the sale and advertising of formats of this work are invested in giving away additional copies. The editors do not benefit from the proceeds of this work. Photos that appear in the book are from Creative Commons (wikipedia.org) and a portion of the proceeds from the sale of the book (and the income that comes from any advertising related to the YouTube channel) goes to support wikipedia.org (shared with paying for the free distribution of the book to people and libraries).
