@@ -239,6 +239,9 @@ Foremost is the principle that the purpose of consumer research is to understand
 
 Found on http://www.wisdom-of-the-wise.com/W-Edwards-Deming.htm
 
+**Note from CRC:**
+*The above link is pointing to a now-defunct site, but can still be found on the Internet Archive [here](https://web.archive.org/web/20130914180448/http://www.wisdom-of-the-wise.com/W-Edwards-Deming.htm).*
+
 ---
 
 ### Acknowledgements
